@@ -1,0 +1,14 @@
+
+These are the examples included with mongo cxx driver client, modified to run
+after installing the FreeBSD Port.
+
+to build, use:
+> make
+
+There is no install. 
+> make clean
+removes the compiled programs.
+
+Read LICENSE.txt for important license information.
+
+Waitman Gobble <ns@waitman.net> 7/7/2013
